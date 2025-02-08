@@ -23,7 +23,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/OSINT-Finder.git
+   git clone https://github.com/Sh4dowTr4ck3r/TraceFinder.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
